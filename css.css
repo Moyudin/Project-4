@@ -1,0 +1,50 @@
+.navbar-1{
+    border-bottom:4px solid #6BC449 ;
+}
+.font-1{
+    font-weight: bold;
+    font-size: 22px;
+}
+@media screen and (min-width: 769px) {
+    .About-Texti{
+        margin-top:150px;
+    }
+    .williamson-text{
+        margin-top: 15px;
+        margin-left: 10px;
+    }
+    .Form-Footer{
+        margin-top: 80px;
+    }
+}
+.williamson-img{
+        height: 60px;
+        width: 80px;
+    }
+@media screen and (max-width: 426px) {
+    .two-phone{
+        margin-top: 10px;
+    }
+    .font-footer{
+        text-align: center;
+        font-size: 9px;
+        color: #6BC449;
+    }
+    .social-img{
+        margin-bottom: 5px;
+        width: 90px;
+    }
+    .Form-Footer{
+        margin-top: 15px;
+    }
+}
+.signup{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.background-img{
+    background-image: url(images/Leafs.jpg);
+    background-size: cover;
+    width: 100%;
+}
